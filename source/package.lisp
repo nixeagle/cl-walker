@@ -8,7 +8,7 @@
 
 (defpackage :hu.dwim.walker
   (:documentation "A code walker for Common Lisp")
-
+  (:nicknames :cl-walker)
   (:use :alexandria
         :anaphora
         :contextl
