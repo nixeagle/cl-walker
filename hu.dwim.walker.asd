@@ -20,7 +20,7 @@
                :hu.dwim.common-lisp
                :hu.dwim.def+contextl
                :hu.dwim.defclass-star+hu.dwim.def
-               :hu.dwim.util
+;               :hu.dwim.util
                :metabang-bind)
   :components ((:file "package" :pathname "source/package")
                (:module "integration"
