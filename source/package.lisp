@@ -15,7 +15,7 @@
         :hu.dwim.common-lisp
         :hu.dwim.def
         :hu.dwim.defclass-star
-        :hu.dwim.util
+;        :hu.dwim.util
         :metabang-bind)
 
   (:shadow #:eval)
